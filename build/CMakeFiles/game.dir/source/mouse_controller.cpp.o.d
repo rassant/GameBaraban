@@ -1,7 +1,7 @@
 CMakeFiles/game.dir/source/mouse_controller.cpp.o: \
- /home/idis/code/hh/game_develop/version_10/source/mouse_controller.cpp \
+ /home/idis/code/hh/github/GameBaraban/source/mouse_controller.cpp \
  /usr/include/stdc-predef.h \
- /home/idis/code/hh/game_develop/version_10/source/../header/mouse_controller.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/mouse_controller.hpp \
  /usr/include/SFML/Graphics.hpp /usr/include/SFML/Window.hpp \
  /usr/include/SFML/System.hpp /usr/include/SFML/Config.hpp \
  /usr/include/SFML/System/Clock.hpp /usr/include/SFML/System/Export.hpp \
@@ -236,7 +236,7 @@ CMakeFiles/game.dir/source/mouse_controller.cpp.o: \
  /usr/include/SFML/Graphics/Sprite.hpp \
  /usr/include/SFML/Graphics/Text.hpp \
  /usr/include/SFML/Graphics/VertexBuffer.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/button.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/button.hpp \
  /usr/include/c++/13/memory \
  /usr/include/c++/13/bits/stl_raw_storage_iter.h \
  /usr/include/c++/13/bits/align.h /usr/include/c++/13/bits/unique_ptr.h \
@@ -249,14 +249,14 @@ CMakeFiles/game.dir/source/mouse_controller.cpp.o: \
  /usr/include/c++/13/bits/atomic_lockfree_defines.h \
  /usr/include/c++/13/backward/auto_ptr.h \
  /usr/include/c++/13/pstl/glue_memory_defs.h \
- /home/idis/code/hh/game_develop/version_10/source/../header/text.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/text.hpp \
  /usr/include/c++/13/unordered_map \
  /usr/include/c++/13/bits/unordered_map.h \
  /usr/include/c++/13/bits/hashtable.h \
  /usr/include/c++/13/bits/hashtable_policy.h \
  /usr/include/c++/13/bits/enable_special_members.h \
- /home/idis/code/hh/game_develop/version_10/source/../header/animation.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/baraban.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/resource.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/baraban_solo.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/icon_elements.hpp
+ /home/idis/code/hh/github/GameBaraban/source/../header/animation.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/baraban.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/resource.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/baraban_solo.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/icon_elements.hpp

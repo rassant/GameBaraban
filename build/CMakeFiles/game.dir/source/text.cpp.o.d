@@ -1,5 +1,5 @@
 CMakeFiles/game.dir/source/text.cpp.o: \
- /home/idis/code/hh/game_develop/version_10/source/text.cpp \
+ /home/idis/code/hh/github/GameBaraban/source/text.cpp \
  /usr/include/stdc-predef.h /usr/include/SFML/Graphics/Color.hpp \
  /usr/include/SFML/Graphics/Export.hpp /usr/include/SFML/Config.hpp \
  /usr/include/SFML/Graphics/Sprite.hpp \
@@ -206,7 +206,7 @@ CMakeFiles/game.dir/source/text.cpp.o: \
  /usr/include/c++/13/bits/atomic_lockfree_defines.h \
  /usr/include/c++/13/backward/auto_ptr.h \
  /usr/include/c++/13/pstl/glue_memory_defs.h \
- /home/idis/code/hh/game_develop/version_10/source/../header/text.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/text.hpp \
  /usr/include/SFML/Graphics.hpp /usr/include/SFML/Window.hpp \
  /usr/include/SFML/System.hpp /usr/include/SFML/System/Clock.hpp \
  /usr/include/SFML/System/Time.hpp /usr/include/SFML/System/Err.hpp \

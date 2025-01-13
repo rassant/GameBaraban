@@ -56,7 +56,7 @@ Button (const std::shared_ptr<sf::Texture> & texture)
 {
 	ParseTextureToSprite ();
 
-	if (!font_->loadFromFile("/home/idis/code/hh/game_develop/version_10/resource/font/impact.ttf"
+	if (!font_->loadFromFile("./resource/font/impact.ttf"
 			  )) {
 		throw std::runtime_error( "Не удалось загрузить шрифт!" );
 	}

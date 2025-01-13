@@ -1,7 +1,7 @@
 CMakeFiles/game.dir/source/resource.cpp.o: \
- /home/idis/code/hh/game_develop/version_10/source/resource.cpp \
+ /home/idis/code/hh/github/GameBaraban/source/resource.cpp \
  /usr/include/stdc-predef.h \
- /home/idis/code/hh/game_develop/version_10/source/../header/resource.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/resource.hpp \
  /usr/include/SFML/Graphics.hpp /usr/include/SFML/Window.hpp \
  /usr/include/SFML/System.hpp /usr/include/SFML/Config.hpp \
  /usr/include/SFML/System/Clock.hpp /usr/include/SFML/System/Export.hpp \

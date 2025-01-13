@@ -1,8 +1,8 @@
 CMakeFiles/game.dir/source/game.cpp.o: \
- /home/idis/code/hh/game_develop/version_10/source/game.cpp \
+ /home/idis/code/hh/github/GameBaraban/source/game.cpp \
  /usr/include/stdc-predef.h \
- /home/idis/code/hh/game_develop/version_10/source/../header/game.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/button.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/game.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/button.hpp \
  /usr/include/SFML/Graphics.hpp /usr/include/SFML/Window.hpp \
  /usr/include/SFML/System.hpp /usr/include/SFML/Config.hpp \
  /usr/include/SFML/System/Clock.hpp /usr/include/SFML/System/Export.hpp \
@@ -248,17 +248,17 @@ CMakeFiles/game.dir/source/game.cpp.o: \
  /usr/include/c++/13/bits/atomic_lockfree_defines.h \
  /usr/include/c++/13/backward/auto_ptr.h \
  /usr/include/c++/13/pstl/glue_memory_defs.h \
- /home/idis/code/hh/game_develop/version_10/source/../header/text.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/text.hpp \
  /usr/include/c++/13/unordered_map \
  /usr/include/c++/13/bits/unordered_map.h \
  /usr/include/c++/13/bits/hashtable.h \
  /usr/include/c++/13/bits/hashtable_policy.h \
  /usr/include/c++/13/bits/enable_special_members.h \
- /home/idis/code/hh/game_develop/version_10/source/../header/interface.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/baraban.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/resource.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/baraban_solo.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/icon_elements.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/animation.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/mouse_controller.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/commentary.hpp
+ /home/idis/code/hh/github/GameBaraban/source/../header/interface.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/baraban.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/resource.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/baraban_solo.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/icon_elements.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/animation.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/mouse_controller.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/commentary.hpp

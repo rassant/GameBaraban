@@ -1,7 +1,7 @@
 CMakeFiles/game.dir/source/commentary.cpp.o: \
- /home/idis/code/hh/game_develop/version_10/source/commentary.cpp \
+ /home/idis/code/hh/github/GameBaraban/source/commentary.cpp \
  /usr/include/stdc-predef.h \
- /home/idis/code/hh/game_develop/version_10/source/../header/commentary.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/commentary.hpp \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -249,13 +249,13 @@ CMakeFiles/game.dir/source/commentary.cpp.o: \
  /usr/include/SFML/Graphics/Sprite.hpp \
  /usr/include/SFML/Graphics/Text.hpp \
  /usr/include/SFML/Graphics/VertexBuffer.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/baraban.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/resource.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/baraban_solo.hpp \
- /home/idis/code/hh/game_develop/version_10/source/../header/icon_elements.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/baraban.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/resource.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/baraban_solo.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/icon_elements.hpp \
  /usr/include/c++/13/unordered_map \
  /usr/include/c++/13/bits/unordered_map.h \
  /usr/include/c++/13/bits/hashtable.h \
  /usr/include/c++/13/bits/hashtable_policy.h \
  /usr/include/c++/13/bits/enable_special_members.h \
- /home/idis/code/hh/game_develop/version_10/source/../header/text.hpp
+ /home/idis/code/hh/github/GameBaraban/source/../header/text.hpp

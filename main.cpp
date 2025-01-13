@@ -1,14 +1,12 @@
-//  version_10 git:(mouse) ✗ g++ -ggdb -O0 main.cpp ./source/*.cpp -lsfml-graphics -lsfml-window -lsfml-system && ./a.out 
-
 #include <SFML/Graphics.hpp>
 #include <SFML/Graphics/Sprite.hpp>
 #include <SFML/System/Clock.hpp>
+#include <SFML/Window/WindowStyle.hpp>
 #include "./header/game.hpp"
 
 int main() {
-    sf::RenderWindow window(sf::VideoMode(1728, 1152), "Sprite Example");
+    sf::RenderWindow window(sf::VideoMode(1728, 1152), "Game", sf::Style::Close);
     const float auto_stop_time = 10.0; // авто остановка после старта
-/*window.setFramerateLimit(600);*/
     sf::Event event;
     bool start_animation = false;
     sf::Clock delta_clock;

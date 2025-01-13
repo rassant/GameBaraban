@@ -1,5 +1,5 @@
 CMakeFiles/game.dir/source/icon_elements.cpp.o: \
- /home/idis/code/hh/game_develop/version_10/source/icon_elements.cpp \
+ /home/idis/code/hh/github/GameBaraban/source/icon_elements.cpp \
  /usr/include/stdc-predef.h /usr/include/SFML/Graphics.hpp \
  /usr/include/SFML/Window.hpp /usr/include/SFML/System.hpp \
  /usr/include/SFML/Config.hpp /usr/include/SFML/System/Clock.hpp \
@@ -274,10 +274,10 @@ CMakeFiles/game.dir/source/icon_elements.cpp.o: \
  /usr/include/c++/13/bits/random.tcc /usr/include/c++/13/numeric \
  /usr/include/c++/13/bits/stl_numeric.h \
  /usr/include/c++/13/pstl/glue_numeric_defs.h \
- /home/idis/code/hh/game_develop/version_10/source/../header/icon_elements.hpp \
+ /home/idis/code/hh/github/GameBaraban/source/../header/icon_elements.hpp \
  /usr/include/c++/13/unordered_map \
  /usr/include/c++/13/bits/unordered_map.h \
  /usr/include/c++/13/bits/hashtable.h \
  /usr/include/c++/13/bits/hashtable_policy.h \
  /usr/include/c++/13/bits/enable_special_members.h \
- /home/idis/code/hh/game_develop/version_10/source/../header/resource.hpp
+ /home/idis/code/hh/github/GameBaraban/source/../header/resource.hpp

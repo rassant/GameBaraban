@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/idis/code/hh/game_develop/version_10
+CMAKE_SOURCE_DIR = /home/idis/code/hh/github/GameBaraban
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/idis/code/hh/game_develop/version_10/build
+CMAKE_BINARY_DIR = /home/idis/code/hh/github/GameBaraban/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/game.dir/depend.make
@@ -70,172 +70,172 @@ include CMakeFiles/game.dir/progress.make
 include CMakeFiles/game.dir/flags.make
 
 CMakeFiles/game.dir/main.cpp.o: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/main.cpp.o: /home/idis/code/hh/game_develop/version_10/main.cpp
+CMakeFiles/game.dir/main.cpp.o: /home/idis/code/hh/github/GameBaraban/main.cpp
 CMakeFiles/game.dir/main.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/game.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/main.cpp.o -MF CMakeFiles/game.dir/main.cpp.o.d -o CMakeFiles/game.dir/main.cpp.o -c /home/idis/code/hh/game_develop/version_10/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/game.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/main.cpp.o -MF CMakeFiles/game.dir/main.cpp.o.d -o CMakeFiles/game.dir/main.cpp.o -c /home/idis/code/hh/github/GameBaraban/main.cpp
 
 CMakeFiles/game.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/game_develop/version_10/main.cpp > CMakeFiles/game.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/github/GameBaraban/main.cpp > CMakeFiles/game.dir/main.cpp.i
 
 CMakeFiles/game.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/game_develop/version_10/main.cpp -o CMakeFiles/game.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/github/GameBaraban/main.cpp -o CMakeFiles/game.dir/main.cpp.s
 
 CMakeFiles/game.dir/source/animation.cpp.o: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/source/animation.cpp.o: /home/idis/code/hh/game_develop/version_10/source/animation.cpp
+CMakeFiles/game.dir/source/animation.cpp.o: /home/idis/code/hh/github/GameBaraban/source/animation.cpp
 CMakeFiles/game.dir/source/animation.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/game.dir/source/animation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/animation.cpp.o -MF CMakeFiles/game.dir/source/animation.cpp.o.d -o CMakeFiles/game.dir/source/animation.cpp.o -c /home/idis/code/hh/game_develop/version_10/source/animation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/game.dir/source/animation.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/animation.cpp.o -MF CMakeFiles/game.dir/source/animation.cpp.o.d -o CMakeFiles/game.dir/source/animation.cpp.o -c /home/idis/code/hh/github/GameBaraban/source/animation.cpp
 
 CMakeFiles/game.dir/source/animation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/source/animation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/game_develop/version_10/source/animation.cpp > CMakeFiles/game.dir/source/animation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/github/GameBaraban/source/animation.cpp > CMakeFiles/game.dir/source/animation.cpp.i
 
 CMakeFiles/game.dir/source/animation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/source/animation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/game_develop/version_10/source/animation.cpp -o CMakeFiles/game.dir/source/animation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/github/GameBaraban/source/animation.cpp -o CMakeFiles/game.dir/source/animation.cpp.s
 
 CMakeFiles/game.dir/source/baraban.cpp.o: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/source/baraban.cpp.o: /home/idis/code/hh/game_develop/version_10/source/baraban.cpp
+CMakeFiles/game.dir/source/baraban.cpp.o: /home/idis/code/hh/github/GameBaraban/source/baraban.cpp
 CMakeFiles/game.dir/source/baraban.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/game.dir/source/baraban.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/baraban.cpp.o -MF CMakeFiles/game.dir/source/baraban.cpp.o.d -o CMakeFiles/game.dir/source/baraban.cpp.o -c /home/idis/code/hh/game_develop/version_10/source/baraban.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/game.dir/source/baraban.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/baraban.cpp.o -MF CMakeFiles/game.dir/source/baraban.cpp.o.d -o CMakeFiles/game.dir/source/baraban.cpp.o -c /home/idis/code/hh/github/GameBaraban/source/baraban.cpp
 
 CMakeFiles/game.dir/source/baraban.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/source/baraban.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/game_develop/version_10/source/baraban.cpp > CMakeFiles/game.dir/source/baraban.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/github/GameBaraban/source/baraban.cpp > CMakeFiles/game.dir/source/baraban.cpp.i
 
 CMakeFiles/game.dir/source/baraban.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/source/baraban.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/game_develop/version_10/source/baraban.cpp -o CMakeFiles/game.dir/source/baraban.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/github/GameBaraban/source/baraban.cpp -o CMakeFiles/game.dir/source/baraban.cpp.s
 
 CMakeFiles/game.dir/source/baraban_solo.cpp.o: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/source/baraban_solo.cpp.o: /home/idis/code/hh/game_develop/version_10/source/baraban_solo.cpp
+CMakeFiles/game.dir/source/baraban_solo.cpp.o: /home/idis/code/hh/github/GameBaraban/source/baraban_solo.cpp
 CMakeFiles/game.dir/source/baraban_solo.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/game.dir/source/baraban_solo.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/baraban_solo.cpp.o -MF CMakeFiles/game.dir/source/baraban_solo.cpp.o.d -o CMakeFiles/game.dir/source/baraban_solo.cpp.o -c /home/idis/code/hh/game_develop/version_10/source/baraban_solo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/game.dir/source/baraban_solo.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/baraban_solo.cpp.o -MF CMakeFiles/game.dir/source/baraban_solo.cpp.o.d -o CMakeFiles/game.dir/source/baraban_solo.cpp.o -c /home/idis/code/hh/github/GameBaraban/source/baraban_solo.cpp
 
 CMakeFiles/game.dir/source/baraban_solo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/source/baraban_solo.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/game_develop/version_10/source/baraban_solo.cpp > CMakeFiles/game.dir/source/baraban_solo.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/github/GameBaraban/source/baraban_solo.cpp > CMakeFiles/game.dir/source/baraban_solo.cpp.i
 
 CMakeFiles/game.dir/source/baraban_solo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/source/baraban_solo.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/game_develop/version_10/source/baraban_solo.cpp -o CMakeFiles/game.dir/source/baraban_solo.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/github/GameBaraban/source/baraban_solo.cpp -o CMakeFiles/game.dir/source/baraban_solo.cpp.s
 
 CMakeFiles/game.dir/source/button.cpp.o: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/source/button.cpp.o: /home/idis/code/hh/game_develop/version_10/source/button.cpp
+CMakeFiles/game.dir/source/button.cpp.o: /home/idis/code/hh/github/GameBaraban/source/button.cpp
 CMakeFiles/game.dir/source/button.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/game.dir/source/button.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/button.cpp.o -MF CMakeFiles/game.dir/source/button.cpp.o.d -o CMakeFiles/game.dir/source/button.cpp.o -c /home/idis/code/hh/game_develop/version_10/source/button.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/game.dir/source/button.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/button.cpp.o -MF CMakeFiles/game.dir/source/button.cpp.o.d -o CMakeFiles/game.dir/source/button.cpp.o -c /home/idis/code/hh/github/GameBaraban/source/button.cpp
 
 CMakeFiles/game.dir/source/button.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/source/button.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/game_develop/version_10/source/button.cpp > CMakeFiles/game.dir/source/button.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/github/GameBaraban/source/button.cpp > CMakeFiles/game.dir/source/button.cpp.i
 
 CMakeFiles/game.dir/source/button.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/source/button.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/game_develop/version_10/source/button.cpp -o CMakeFiles/game.dir/source/button.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/github/GameBaraban/source/button.cpp -o CMakeFiles/game.dir/source/button.cpp.s
 
 CMakeFiles/game.dir/source/commentary.cpp.o: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/source/commentary.cpp.o: /home/idis/code/hh/game_develop/version_10/source/commentary.cpp
+CMakeFiles/game.dir/source/commentary.cpp.o: /home/idis/code/hh/github/GameBaraban/source/commentary.cpp
 CMakeFiles/game.dir/source/commentary.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/game.dir/source/commentary.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/commentary.cpp.o -MF CMakeFiles/game.dir/source/commentary.cpp.o.d -o CMakeFiles/game.dir/source/commentary.cpp.o -c /home/idis/code/hh/game_develop/version_10/source/commentary.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/game.dir/source/commentary.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/commentary.cpp.o -MF CMakeFiles/game.dir/source/commentary.cpp.o.d -o CMakeFiles/game.dir/source/commentary.cpp.o -c /home/idis/code/hh/github/GameBaraban/source/commentary.cpp
 
 CMakeFiles/game.dir/source/commentary.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/source/commentary.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/game_develop/version_10/source/commentary.cpp > CMakeFiles/game.dir/source/commentary.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/github/GameBaraban/source/commentary.cpp > CMakeFiles/game.dir/source/commentary.cpp.i
 
 CMakeFiles/game.dir/source/commentary.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/source/commentary.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/game_develop/version_10/source/commentary.cpp -o CMakeFiles/game.dir/source/commentary.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/github/GameBaraban/source/commentary.cpp -o CMakeFiles/game.dir/source/commentary.cpp.s
 
 CMakeFiles/game.dir/source/game.cpp.o: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/source/game.cpp.o: /home/idis/code/hh/game_develop/version_10/source/game.cpp
+CMakeFiles/game.dir/source/game.cpp.o: /home/idis/code/hh/github/GameBaraban/source/game.cpp
 CMakeFiles/game.dir/source/game.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/game.dir/source/game.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/game.cpp.o -MF CMakeFiles/game.dir/source/game.cpp.o.d -o CMakeFiles/game.dir/source/game.cpp.o -c /home/idis/code/hh/game_develop/version_10/source/game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/game.dir/source/game.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/game.cpp.o -MF CMakeFiles/game.dir/source/game.cpp.o.d -o CMakeFiles/game.dir/source/game.cpp.o -c /home/idis/code/hh/github/GameBaraban/source/game.cpp
 
 CMakeFiles/game.dir/source/game.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/source/game.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/game_develop/version_10/source/game.cpp > CMakeFiles/game.dir/source/game.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/github/GameBaraban/source/game.cpp > CMakeFiles/game.dir/source/game.cpp.i
 
 CMakeFiles/game.dir/source/game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/source/game.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/game_develop/version_10/source/game.cpp -o CMakeFiles/game.dir/source/game.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/github/GameBaraban/source/game.cpp -o CMakeFiles/game.dir/source/game.cpp.s
 
 CMakeFiles/game.dir/source/icon_elements.cpp.o: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/source/icon_elements.cpp.o: /home/idis/code/hh/game_develop/version_10/source/icon_elements.cpp
+CMakeFiles/game.dir/source/icon_elements.cpp.o: /home/idis/code/hh/github/GameBaraban/source/icon_elements.cpp
 CMakeFiles/game.dir/source/icon_elements.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/game.dir/source/icon_elements.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/icon_elements.cpp.o -MF CMakeFiles/game.dir/source/icon_elements.cpp.o.d -o CMakeFiles/game.dir/source/icon_elements.cpp.o -c /home/idis/code/hh/game_develop/version_10/source/icon_elements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/game.dir/source/icon_elements.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/icon_elements.cpp.o -MF CMakeFiles/game.dir/source/icon_elements.cpp.o.d -o CMakeFiles/game.dir/source/icon_elements.cpp.o -c /home/idis/code/hh/github/GameBaraban/source/icon_elements.cpp
 
 CMakeFiles/game.dir/source/icon_elements.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/source/icon_elements.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/game_develop/version_10/source/icon_elements.cpp > CMakeFiles/game.dir/source/icon_elements.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/github/GameBaraban/source/icon_elements.cpp > CMakeFiles/game.dir/source/icon_elements.cpp.i
 
 CMakeFiles/game.dir/source/icon_elements.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/source/icon_elements.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/game_develop/version_10/source/icon_elements.cpp -o CMakeFiles/game.dir/source/icon_elements.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/github/GameBaraban/source/icon_elements.cpp -o CMakeFiles/game.dir/source/icon_elements.cpp.s
 
 CMakeFiles/game.dir/source/interface.cpp.o: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/source/interface.cpp.o: /home/idis/code/hh/game_develop/version_10/source/interface.cpp
+CMakeFiles/game.dir/source/interface.cpp.o: /home/idis/code/hh/github/GameBaraban/source/interface.cpp
 CMakeFiles/game.dir/source/interface.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/game.dir/source/interface.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/interface.cpp.o -MF CMakeFiles/game.dir/source/interface.cpp.o.d -o CMakeFiles/game.dir/source/interface.cpp.o -c /home/idis/code/hh/game_develop/version_10/source/interface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/game.dir/source/interface.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/interface.cpp.o -MF CMakeFiles/game.dir/source/interface.cpp.o.d -o CMakeFiles/game.dir/source/interface.cpp.o -c /home/idis/code/hh/github/GameBaraban/source/interface.cpp
 
 CMakeFiles/game.dir/source/interface.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/source/interface.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/game_develop/version_10/source/interface.cpp > CMakeFiles/game.dir/source/interface.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/github/GameBaraban/source/interface.cpp > CMakeFiles/game.dir/source/interface.cpp.i
 
 CMakeFiles/game.dir/source/interface.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/source/interface.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/game_develop/version_10/source/interface.cpp -o CMakeFiles/game.dir/source/interface.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/github/GameBaraban/source/interface.cpp -o CMakeFiles/game.dir/source/interface.cpp.s
 
 CMakeFiles/game.dir/source/mouse_controller.cpp.o: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/source/mouse_controller.cpp.o: /home/idis/code/hh/game_develop/version_10/source/mouse_controller.cpp
+CMakeFiles/game.dir/source/mouse_controller.cpp.o: /home/idis/code/hh/github/GameBaraban/source/mouse_controller.cpp
 CMakeFiles/game.dir/source/mouse_controller.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/game.dir/source/mouse_controller.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/mouse_controller.cpp.o -MF CMakeFiles/game.dir/source/mouse_controller.cpp.o.d -o CMakeFiles/game.dir/source/mouse_controller.cpp.o -c /home/idis/code/hh/game_develop/version_10/source/mouse_controller.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/game.dir/source/mouse_controller.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/mouse_controller.cpp.o -MF CMakeFiles/game.dir/source/mouse_controller.cpp.o.d -o CMakeFiles/game.dir/source/mouse_controller.cpp.o -c /home/idis/code/hh/github/GameBaraban/source/mouse_controller.cpp
 
 CMakeFiles/game.dir/source/mouse_controller.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/source/mouse_controller.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/game_develop/version_10/source/mouse_controller.cpp > CMakeFiles/game.dir/source/mouse_controller.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/github/GameBaraban/source/mouse_controller.cpp > CMakeFiles/game.dir/source/mouse_controller.cpp.i
 
 CMakeFiles/game.dir/source/mouse_controller.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/source/mouse_controller.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/game_develop/version_10/source/mouse_controller.cpp -o CMakeFiles/game.dir/source/mouse_controller.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/github/GameBaraban/source/mouse_controller.cpp -o CMakeFiles/game.dir/source/mouse_controller.cpp.s
 
 CMakeFiles/game.dir/source/resource.cpp.o: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/source/resource.cpp.o: /home/idis/code/hh/game_develop/version_10/source/resource.cpp
+CMakeFiles/game.dir/source/resource.cpp.o: /home/idis/code/hh/github/GameBaraban/source/resource.cpp
 CMakeFiles/game.dir/source/resource.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/game.dir/source/resource.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/resource.cpp.o -MF CMakeFiles/game.dir/source/resource.cpp.o.d -o CMakeFiles/game.dir/source/resource.cpp.o -c /home/idis/code/hh/game_develop/version_10/source/resource.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/game.dir/source/resource.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/resource.cpp.o -MF CMakeFiles/game.dir/source/resource.cpp.o.d -o CMakeFiles/game.dir/source/resource.cpp.o -c /home/idis/code/hh/github/GameBaraban/source/resource.cpp
 
 CMakeFiles/game.dir/source/resource.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/source/resource.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/game_develop/version_10/source/resource.cpp > CMakeFiles/game.dir/source/resource.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/github/GameBaraban/source/resource.cpp > CMakeFiles/game.dir/source/resource.cpp.i
 
 CMakeFiles/game.dir/source/resource.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/source/resource.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/game_develop/version_10/source/resource.cpp -o CMakeFiles/game.dir/source/resource.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/github/GameBaraban/source/resource.cpp -o CMakeFiles/game.dir/source/resource.cpp.s
 
 CMakeFiles/game.dir/source/text.cpp.o: CMakeFiles/game.dir/flags.make
-CMakeFiles/game.dir/source/text.cpp.o: /home/idis/code/hh/game_develop/version_10/source/text.cpp
+CMakeFiles/game.dir/source/text.cpp.o: /home/idis/code/hh/github/GameBaraban/source/text.cpp
 CMakeFiles/game.dir/source/text.cpp.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/game.dir/source/text.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/text.cpp.o -MF CMakeFiles/game.dir/source/text.cpp.o.d -o CMakeFiles/game.dir/source/text.cpp.o -c /home/idis/code/hh/game_develop/version_10/source/text.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/game.dir/source/text.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/source/text.cpp.o -MF CMakeFiles/game.dir/source/text.cpp.o.d -o CMakeFiles/game.dir/source/text.cpp.o -c /home/idis/code/hh/github/GameBaraban/source/text.cpp
 
 CMakeFiles/game.dir/source/text.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/source/text.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/game_develop/version_10/source/text.cpp > CMakeFiles/game.dir/source/text.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/idis/code/hh/github/GameBaraban/source/text.cpp > CMakeFiles/game.dir/source/text.cpp.i
 
 CMakeFiles/game.dir/source/text.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/source/text.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/game_develop/version_10/source/text.cpp -o CMakeFiles/game.dir/source/text.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/idis/code/hh/github/GameBaraban/source/text.cpp -o CMakeFiles/game.dir/source/text.cpp.s
 
 # Object files for target game
 game_OBJECTS = \
@@ -272,7 +272,7 @@ game: /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.6.1
 game: /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.6.1
 game: /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.6.1
 game: CMakeFiles/game.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/idis/code/hh/game_develop/version_10/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable game"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/idis/code/hh/github/GameBaraban/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable game"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/game.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -284,6 +284,6 @@ CMakeFiles/game.dir/clean:
 .PHONY : CMakeFiles/game.dir/clean
 
 CMakeFiles/game.dir/depend:
-	cd /home/idis/code/hh/game_develop/version_10/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/idis/code/hh/game_develop/version_10 /home/idis/code/hh/game_develop/version_10 /home/idis/code/hh/game_develop/version_10/build /home/idis/code/hh/game_develop/version_10/build /home/idis/code/hh/game_develop/version_10/build/CMakeFiles/game.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/idis/code/hh/github/GameBaraban/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/idis/code/hh/github/GameBaraban /home/idis/code/hh/github/GameBaraban /home/idis/code/hh/github/GameBaraban/build /home/idis/code/hh/github/GameBaraban/build /home/idis/code/hh/github/GameBaraban/build/CMakeFiles/game.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/game.dir/depend
 
